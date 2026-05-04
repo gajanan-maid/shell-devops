@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#this is practice file
+<<comment
+anything 
+written 
+is non 
+executable
+
+above are comments
+
+comment
+
+
+name="gajanan"
+
+echo "my name is $name, today date is $(date)"	
